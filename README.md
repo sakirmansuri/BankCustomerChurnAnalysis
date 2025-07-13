@@ -57,4 +57,4 @@ This project visualizes key metrics related to customer churn using Power BI. Th
 
 ## 📞 Contact
 
-**Your Name** – [LinkedIn](https://linkedin.com/in/sakirmansuri) | [Email](mailto:sakir.mansuri2103@gmail.com)
+**Sakir Mansuri** – [LinkedIn](https://linkedin.com/in/sakirmansuri) | [Email](mailto:sakir.mansuri2103@gmail.com)
