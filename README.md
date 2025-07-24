@@ -2,7 +2,7 @@
 
 This project visualizes key metrics related to customer churn using Power BI. The dashboard helps stakeholders understand churn trends, customer demographics, and product engagement.
 
-![Dashboard Screenshot](./Screenshot.png)
+![Dashboard Screenshot]()
 
 ## 🔍 Overview
 
